@@ -1,3 +1,4 @@
+# while True loops the input
 while True:
     milk = input(">  ")
 
